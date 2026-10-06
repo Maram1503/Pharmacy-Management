@@ -83,8 +83,7 @@ src/
 
 **Maram Othmani**
 - GitHub : [@Maram1503](https://github.com/Maram1503)
-- LinkedIn : [votre profil](https://www.linkedin.com/in/votre-nom)
-
+- LinkedIn : [votre profil][(https://www.linkedin.com/in/maram-othmani-3602b833a)]
 ## 📄 Licence
 
 Projet réalisé dans un cadre pédagogique.
